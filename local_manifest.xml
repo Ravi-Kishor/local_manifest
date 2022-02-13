@@ -6,9 +6,9 @@
 	
 	
 	<!-- Trees -->
-	<project path="device/Realme/RMX1821" name="android_device_realme_RMX1821" revision="S-12" remote="Ravi-Kishor" clone-depth="1"/>	
-	<project path="kernel//Realme/RMX1821" name="android_kernel_realme_RMX1821" revision="r1" remote="Ravi-Kishor" clone-depth="1"/>
-	<project path="vendor/Realme/RMX1821" name="android_vendor_realme_RMX1821" revision="S-12" remote="Ravi-Kishor" clone-depth="1"/>
+	<project path="device/Realme/RMX1821" name="device_realme_RMX1821-1" revision="twelve" remote="Ravi-Kishor" clone-depth="1"/>	
+	<project path="kernel//Realme/RMX1821" name="android_kernel_realme_RMX1821" revision="Q" remote="Ravi-Kishor" clone-depth="1"/>
+	<project path="vendor/Realme/RMX1821" name="vendor_realme_RMX1821" revision="twelve" remote="Ravi-Kishor" clone-depth="1"/>
 	<project path="vendor/mediatek/ims" name="vendor-mediatek-ims" remote="Ravi-Kishor" revision="twelve" clone-depth="1" />
-	<project path="packages/apps/RealmeParts" name="android_packages_apps_RealmeParts-1" remote="Ravi-Kishor" revision="aosp12" clone-depth="1" />
+	<project path="packages/apps/RealmeParts" name="android_packages_apps_RealmeParts" remote="Ravi-Kishor" revision="S-12" clone-depth="1" />
 </manifest>
